@@ -1,0 +1,8 @@
+{
+    "name": "az-marketing/schema_educational_occupational_program",
+    "description": "Adds EducationalOccupationalProgram to the JSON LD array.",
+    "type": "drupal-module",
+    "require": {
+        "php": ">=7.2"
+    }
+}  
